@@ -1,0 +1,28 @@
+body {
+    max-width: 600px;
+    margin: 0 auto;
+    font-family: system-ui;
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+
+h1 {
+    margin-top: 50px;
+    font-family: serif;
+    text-align: center;
+    color: white;
+}
+
+p {
+    text-align: justify;
+    color: white;
+}
+
+.degradado_vertical {
+    background: linear-gradient(purple, blue, purple)
+}
+
+nav {
+    text-align: center;
+    color: white;
+}
